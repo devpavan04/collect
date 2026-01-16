@@ -1,6 +1,4 @@
-# NFT Marketplace
-
-Mint, collect, and trade ERC-721 NFTs.
+# Collect
 
 <img align="right" width="350" src="./image.png"></img>
 ### Features
@@ -11,7 +9,7 @@ Mint, collect, and trade ERC-721 NFTs.
 - Keeps track of all the tokens owned by an account - minted and bought.
 - Query blockchain for token owner and token metadata.
 - User can mint a token only after every 5 minutes.
-#
+
 ### Stack
 - [Solidity](https://docs.soliditylang.org/en/v0.7.6/) - Object-oriented, high-level language for implementing smart contracts.
 - [Bootstrap 4](https://getbootstrap.com/) - CSS framework for faster and easier web development.
